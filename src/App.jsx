@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import SaludoOriginal from "./components/saludoOriginal";
+import SaludoOriginal from "./components/SaludoOriginal";
 
 function App(){
   const saludo = "My Friend!";
